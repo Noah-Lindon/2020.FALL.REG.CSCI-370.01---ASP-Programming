@@ -1,6 +1,11 @@
 # 2020.FALL.REG.CSCI-370.01---ASP-Programming
 The following are the assignment descriptions.  Some assignments couldn't be uploaded due to the file size being too big for github
 
+Assignment 2:
+Please make a calendar shown in the recording (9/10/2020)
+
+
+
 Assignment 4:
 Please complete the SQL queries, and submit it to Canvas as the .sql file format.
 1. List all Customer Cities that have at least two customers.
